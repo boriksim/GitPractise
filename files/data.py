@@ -3,3 +3,6 @@ class SomeDataStructure:
         self.var1 = 1
         self.var2 = "World Hello"
         self.var1 = True
+
+def div_a_b(a, b):
+    return int(a) / int(b)
